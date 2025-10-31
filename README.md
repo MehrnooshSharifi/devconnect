@@ -13,6 +13,9 @@
 مدیریت داده‌ها با React Query
 
 فونت فارسی و رابط کاربری تمیز و مینیمال
+
+
+
 تکنولوژی‌ها
 بخش	تکنولوژی
 Frontend	Next.js 15, React Query, TypeScript, TailwindCSS, MUI
