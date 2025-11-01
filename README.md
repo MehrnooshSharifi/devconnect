@@ -1,27 +1,45 @@
- یک پروژه‌ی فول‌استک مدرن است که با استفاده از Next.js 15, GraphQL, Prisma, و Node.js ساخته شده است.
-در این پروژه کاربران می‌توانند ثبت‌نام کنند، وارد حساب خود شوند و پست‌های شخصی خود را ایجاد، ویرایش و حذف کنند.
-ویژگی‌ها
+# 🌐 DevConnect
 
-ثبت‌نام و ورود کاربران با JWT Authentication
+یک پلتفرم ساده و مدرن برای ارتباط بین توسعه‌دهندگان، ایجاد پست، و به‌اشتراک‌گذاری محتوا.  
+این پروژه با **Next.js 16**, **TypeScript**, **GraphQL**, **Prisma**, و **Material UI** ساخته شده است.
 
-ساخت، ویرایش و حذف پست‌ها
+---
 
-ذخیره‌ی امن توکن در Cookie
+##  ویژگی‌ها
 
-طراحی واکنش‌گرا با Material UI + TailwindCSS
+- ثبت‌نام و ورود کاربران با JWT و کوکی  
+- ایجاد، ویرایش و حذف پست‌ها  
+- استفاده از GraphQL برای ارتباط فرانت‌اند و بک‌اند  
+- ذخیره امن داده‌ها با Prisma و SQLite/PostgreSQL  
+- رابط کاربری مدرن با Material UI و انیمیشن‌های Framer Motion  
+- طراحی واکنش‌گرا (Responsive) برای دسکتاپ و موبایل  
 
-مدیریت داده‌ها با React Query
+---
 
-فونت فارسی و رابط کاربری تمیز و مینیمال
+##  تکنولوژی‌ها و ابزارها
 
+| بخش | تکنولوژی |
+|------|-----------|
+| **Frontend** | Next.js 16, TypeScript, React Query, Material UI, Framer Motion |
+| **Backend** | Node.js, GraphQL Yoga, Prisma ORM |
+| **Database** | SQLite (قابل تغییر به PostgreSQL) |
+| **Authentication** | JWT + Cookies |
+| **Styling** | Tailwind CSS + MUI Theme |
 
+---
 
-تکنولوژی‌ها
-بخش	تکنولوژی
-Frontend	Next.js 15, React Query, TypeScript, TailwindCSS, MUI
-Backend	Node.js, GraphQL Yoga, Prisma ORM
-Database	SQLite (local)
-Auth	JWT
-Deployment	Vercel (Frontend) & Render (Backend)
+##  نحوه اجرا
 
-نسخه آنلاین : https://devconnect-gold.vercel.app/
+###  کلون کردن پروژه
+```bash
+git clone https://github.com/MehrnooshSharifi/devconnect.git
+cd devconnect
+## نسخه آنلاین پروژه :
+https://devconnect-gold.vercel.app/
+
+توسعه‌ دهنده
+
+Mehrnoosh Sharifi (مهرنوش شریفی)
+📧 ایمیل: sharifi67.m@gmail.com
+
+🌍 گیت‌هاب: github.com/MehrnooshSharifi
