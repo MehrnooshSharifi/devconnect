@@ -109,7 +109,7 @@ export default function HomePage() {
               color: "#1976d2",
               "&:hover": { backgroundColor: "#e3f2fd" },
             }}
-            onClick={() => router.push("/signup")}
+            onClick={() => router.push("/register")}
           >
             ثبت‌نام
           </Button>
