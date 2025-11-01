@@ -27,8 +27,7 @@
 | **Styling** | Tailwind CSS + MUI Theme |
 
 ---
-
-##  نحوه اجرا
+ 
 
 ###  کلون کردن پروژه
 ```bash
@@ -37,8 +36,7 @@ cd devconnect
 ## نسخه آنلاین پروژه :
 https://devconnect-gold.vercel.app/
 
-توسعه‌ دهنده
-
+## توسعه دهنده :
 Mehrnoosh Sharifi (مهرنوش شریفی)
 📧 ایمیل: sharifi67.m@gmail.com
 
